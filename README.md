@@ -10,4 +10,4 @@ Video on how to do that: https://youtu.be/z2qsEJFzQV0 (both IOS and Android) Vid
 Any questions?
 # Join my Discord: https://discord.gg/mvxabW57hP                
 
-Please let me know if you need help anything but creating an issue report :)
+Please let me know if you need help anything by creating a issue report :)
