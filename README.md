@@ -1,4 +1,4 @@
-# DBD Mobile PAK Files Downloads (4.6.2-5.0.2) by FlecheringYT.
+# DBD Mobile PAK Files Downloads (3.6.2-5.0.2) by FlecheringYT.
 
 This is a repository to download pak files from older and current verisons of DBD Mobile. I will try to keep this updated every update (usually uploading the pak files takes around 6-7 hours). Actual paks are not uploaded to github, instead I upload them to MEGA. To download, copy and paste the mega link from a file, and paste into your browser and download from there. Sometimes I won't include pak files that are hotfix updates (it's pointless).
 
@@ -9,6 +9,4 @@ Video on how to datamine DBDM with fmodel: https://youtu.be/y_YIvo2tAso
 ![alt text](https://cdn.discordapp.com/attachments/797676788871856138/890054944835645450/unknown.png)
 
 Any questions?
-# Join my Discord: https://discord.gg/mvxabW57hP                
-
-Please let me know if you need help anything by creating a issue report :)
+# Join my Discord: https://discord.gg/mvxabW57hP
