@@ -151,4 +151,4 @@ Maps:
 "Swp_GrimPantry": Grim Pantry
 "Swp_PaleRose": The Pale Rose
 "Ukr_Saloon": Dead Dawg Saloon
-"Wal_Level_01": Midwich Elementary Schoo
+"Wal_Level_01": Midwich Elementary School
