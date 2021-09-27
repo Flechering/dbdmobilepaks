@@ -53,6 +53,7 @@ K22: Twins            | K22
 K23: Trickster        | K23
 K24: Nemesis          | K24
 K25: Cenobite         | K25
+K26: Unreleased Killer | K26
 
 Chapters:
 DLC2: HALLOWEEN
@@ -79,6 +80,19 @@ Yemen: DESCEND BEYOND
 Eclipse: RESIDENT EVIL
 Gemini: HELLRAISER
 
+Mid-Chapters:
+"Japan": Mid-Chapter 2.3.0
+"Laos": Mid-Chapter 2.5.0
+"Nepal": Mid-Chapter 2.7.0
+"Rwanda": Mid-Chapter 3.3.0
+"Togo": Mid-Chapter 3.5.0
+"Vietnam": Mid-Chapter 3.7.0
+"Xipre": Mid-Chapter 4.1.0
+"Zambia": Mid-Chapter 4.3.0
+"Big Bang": Mid-Chapter 4.5.0
+"Draco": Mid-Chapter 4.7.0
+"Flare": Mid-Chapter 5.1.0
+
 Realms:
 Asylum: Crotus Prenn Asylum
 Boreal: Red Forest
@@ -96,3 +110,45 @@ Wales: Silent Hill
 Eclipse: RPD Police Station
 Kenya: Mount Ormond
 Qatar: Hawkins National Laboratory
+
+Maps:
+
+"Asy_Asylum": Disturbed Ward
+"Asy_Chapel": Father Campbell's Chapel
+"Brl_MaHouse": Mother's Dwelling
+"Brl_Temple": The Temple of Purgation
+"Eng_Street_01": Badham Preschool I
+"Eng_Street_02": Badham Preschool II
+"Eng_Street_03": Badham Preschool III
+"Eng_Street_04": Badham Preschool IV
+"Eng_Street_05": Badham Preschool V
+"Ecl_Level_01": Raccoon City Police Station
+"Ecl_Level_02": Raccoon City Police Station II (not-released)
+"Ecl_Level_03": Raccoon City Police Station III (not-released)
+"Ecl_Level_04": Raccoon City Police Station IV (not-released)
+"Fin_Hideout": The Game
+"Frm_Barn": Fractured Cowshed
+"Frm_Cornfield": Rotten Fields
+"Frm_Farmhouse": The Thompson House
+"Frm_Silo": Torment Creek
+"Frm_Slaughterhouse": Rancid Abattoir
+"Hos_Treatment": Treatment Theatre
+"Hti_Manor": Family Residence
+"Hti_Shrine": Sanctum of Wrath
+"Ind_CoalTower": Coal Tower
+"Ind_Forest": Shelter Woods
+"Ind_Foundry": Ironworks of Misery
+"Ind_Mine": Suffocation Pit
+"Ind_Storehouse": Groaning Storehouse
+"Jnk_Garage": Wretched Shop
+"Jnk_GasStation": Gas Heaven
+"Jnk_Lodge": Blood Lodge
+"Jnk_Office": Azarov's Resting Place
+"Jnk_Scrapyard": Wreckers' Yard
+"Kny_Cottage": Mount Ormond Resort
+"Qat_Lab": The Underground Complex
+"Sub_Street": Lampkin Lane
+"Swp_GrimPantry": Grim Pantry
+"Swp_PaleRose": The Pale Rose
+"Ukr_Saloon": Dead Dawg Saloon
+"Wal_Level_01": Midwich Elementary Schoo
