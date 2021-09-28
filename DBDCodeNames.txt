@@ -26,7 +26,7 @@ S24: Elodie         | S24
 S25: Yun-Jin Lee    | S25
 S26: Jill           | S26
 S27: Leon           | S27
-S28: Unreleased Survivor (RELEASES MID CHAPTER ON CORE) | S28
+S28: Mikaela Reid   | S28
 
 KILLERS:
 
@@ -79,6 +79,7 @@ Ukraine: Chains of Hate
 Yemen: DESCEND BEYOND
 Eclipse: RESIDENT EVIL
 Gemini: HELLRAISER
+Hubble: Hour of the Witch
 
 Mid-Chapters:
 "Japan": Mid-Chapter 2.3.0
