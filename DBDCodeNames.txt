@@ -79,20 +79,21 @@ Ukraine: Chains of Hate
 Yemen: DESCEND BEYOND
 Eclipse: RESIDENT EVIL
 Gemini: HELLRAISER
-Hubble: Hour of the Witch
+Kabuki: NEXT CHAPTER
 
 Mid-Chapters:
-"Japan": Mid-Chapter 2.3.0
-"Laos": Mid-Chapter 2.5.0
-"Nepal": Mid-Chapter 2.7.0
-"Rwanda": Mid-Chapter 3.3.0
-"Togo": Mid-Chapter 3.5.0
-"Vietnam": Mid-Chapter 3.7.0
-"Xipre": Mid-Chapter 4.1.0
-"Zambia": Mid-Chapter 4.3.0
-"Big Bang": Mid-Chapter 4.5.0
-"Draco": Mid-Chapter 4.7.0
-"Flare": Mid-Chapter 5.1.0
+Japan: Mid-Chapter 2.3.0
+Laos: Mid-Chapter 2.5.0
+Nepal: Mid-Chapter 2.7.0
+Rwanda: Mid-Chapter 3.3.0
+Togo: Mid-Chapter 3.5.0
+Vietnam: Mid-Chapter 3.7.0
+Xipre: Mid-Chapter 4.1.0
+Zambia: Mid-Chapter 4.3.0
+Big Bang: Mid-Chapter 4.5.0
+Draco: Mid-Chapter 4.7.0
+Flare: Mid-Chapter 5.1.0
+Hubble: Mid-Chapter 5.3.0
 
 Realms:
 Asylum: Crotus Prenn Asylum
