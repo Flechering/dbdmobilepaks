@@ -1,4 +1,4 @@
-# DBD Mobile PAK Files Downloads (3.6.2-5.0.2) by FlecheringYT.
+# DBD Mobile PAK Files Downloads (3.6.2-5.1.0) by FlecheringYT.
 
 This is a repository to download pak files from older and current verisons of DBD Mobile. I will try to keep this updated every update (usually uploading the pak files takes around 6-7 hours). Actual paks are not uploaded to github, instead I upload them to MEGA. To download, copy and paste the mega link from a file, and paste into your browser and download from there. Sometimes I won't include pak files that are hotfix updates (it's pointless).
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-line.gif" width="9000px">
