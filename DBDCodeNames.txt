@@ -27,6 +27,7 @@ S25: Yun-Jin Lee    | S25
 S26: Jill           | S26
 S27: Leon           | S27
 S28: Mikaela Reid   | S28
+S29: NEXT SUVIVOR   | S29
 
 KILLERS:
 
@@ -53,7 +54,7 @@ K22: Twins            | K22
 K23: Trickster        | K23
 K24: Nemesis          | K24
 K25: Cenobite         | K25
-K26: Unreleased Killer | K26
+K26: Next Killer      | Next Killer
 
 Chapters:
 DLC2: HALLOWEEN
