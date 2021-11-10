@@ -27,7 +27,7 @@ S25: Yun-Jin Lee    | S25
 S26: Jill           | S26
 S27: Leon           | S27
 S28: Mikaela Reid   | S28
-S29: NEXT SUVIVOR   | S29
+S29: Jonah Vasquez  | S29
 
 KILLERS:
 
@@ -54,7 +54,7 @@ K22: Twins            | K22
 K23: Trickster        | K23
 K24: Nemesis          | K24
 K25: Cenobite         | K25
-K26: Next Killer      | Next Killer
+K26: The Artist       | K26
 
 Chapters:
 DLC2: HALLOWEEN
@@ -80,7 +80,7 @@ Ukraine: Chains of Hate
 Yemen: DESCEND BEYOND
 Eclipse: RESIDENT EVIL
 Gemini: HELLRAISER
-Kabuki: NEXT CHAPTER
+Ion: A POTRAIT OF MURDER
 
 Mid-Chapters:
 Japan: Mid-Chapter 2.3.0
@@ -113,6 +113,7 @@ Wales: Silent Hill
 Eclipse: RPD Police Station
 Kenya: Mount Ormond
 Qatar: Hawkins National Laboratory
+Ion: The Forsaken Boneyard
 
 Maps:
 
@@ -155,3 +156,4 @@ Maps:
 "Swp_PaleRose": The Pale Rose
 "Ukr_Saloon": Dead Dawg Saloon
 "Wal_Level_01": Midwich Elementary School
+"Ion_Level01" : Eyrie of Crows
