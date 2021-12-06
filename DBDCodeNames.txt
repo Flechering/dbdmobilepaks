@@ -28,6 +28,7 @@ S26: Jill           | S26
 S27: Leon           | S27
 S28: Mikaela Reid   | S28
 S29: Jonah Vasquez  | S29
+S30: New Survivor   | S30
 
 KILLERS:
 
@@ -55,6 +56,7 @@ K23: Trickster        | K23
 K24: Nemesis          | K24
 K25: Cenobite         | K25
 K26: The Artist       | K26
+K27: New Killer       | K27
 
 Chapters:
 DLC2: HALLOWEEN
