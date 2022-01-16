@@ -10,5 +10,3 @@ Video on how to datamine DBDM with fmodel: https://youtu.be/y_YIvo2tAso
 ```
 <img src="https://cdn.discordapp.com/attachments/891550020212506646/894053407915147315/image0.jpg" width="5000px">
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-line.gif" width="9000px">
-Any questions? <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/symbol%26sign/q-3.png" align="left" width="40px">
-# Join my Discord: https://discord.gg/mvxabW57hP <img src="https://cdn.discordapp.com/attachments/891550020212506646/894050975856357457/concours-discord-cartes-voeux-fortnite-france-6.png" align="left" width="40px">
